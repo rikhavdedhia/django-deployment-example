@@ -27,7 +27,7 @@ SECRET_KEY = 'ezy(k*b1v^9fh^p#=d3dt5&kc9vtpdzkgf(ga3+b8!s_e8@_7w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["rikhavdedhia.pythonanywhere.com"]
 
 
 # Application definition
